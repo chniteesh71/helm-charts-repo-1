@@ -1,2 +1,4 @@
-# helm-charts-repo-1
-new repo for helm charts testing
+# helm-charts-repo
+Charts Repository on GitHub
+
+## my github repository
